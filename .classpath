@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="fundamentos-java"/>
 	<classpathentry kind="src" path="estruturas-controle-java"/>
+	<classpathentry kind="src" path="sintaxe-logica-java"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
