@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="fundamentos-java"/>
 	<classpathentry kind="src" path="estruturas-controle-java"/>
 	<classpathentry kind="src" path="sintaxe-logica-java"/>
+	<classpathentry kind="src" path="classe-encapsulamento-java-ex03"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
