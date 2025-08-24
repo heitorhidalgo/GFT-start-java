@@ -10,5 +10,7 @@
 	<classpathentry kind="src" path="estruturas-controle-java"/>
 	<classpathentry kind="src" path="sintaxe-logica-java"/>
 	<classpathentry kind="src" path="classe-encapsulamento-java-ex03"/>
+	<classpathentry kind="src" path="classe-encapsulamento-java-ex01"/>
+	<classpathentry kind="src" path="classe-encapsulamento-java-ex02"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
