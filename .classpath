@@ -13,5 +13,6 @@
 	<classpathentry kind="src" path="classe-encapsulamento-java-ex01"/>
 	<classpathentry kind="src" path="classe-encapsulamento-java-ex02"/>
 	<classpathentry kind="src" path="heranca-polimorfismo-java-ex01"/>
+	<classpathentry kind="src" path="heranca-polimorfismo-java-ex02"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
